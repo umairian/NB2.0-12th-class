@@ -1,0 +1,1 @@
+module.exports = ["One Stop Shops", "Seven Eleven", "Kroger", "One Mart"];
